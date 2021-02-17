@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-17 21:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-02-17 13:33:11 +0000"
@@ -521,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-17 21:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2021-02-17 20:20:16 +0000"
@@ -560,6 +572,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-02-16 18:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-02-17 21:37:44 +0000"
     },
     "done": true
   },
@@ -1007,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-17 21:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-02-17 13:12:46 +0000"
@@ -1024,8 +1048,11 @@
       "minecraft:jungle_edge": "2021-02-17 10:53:26 +0000",
       "minecraft:forest": "2021-02-16 18:36:17 +0000",
       "minecraft:mountains": "2021-02-16 18:37:13 +0000",
+      "minecraft:jungle": "2021-02-17 21:37:07 +0000",
+      "minecraft:jungle_hills": "2021-02-17 21:37:17 +0000",
       "minecraft:beach": "2021-02-17 10:08:51 +0000",
       "minecraft:river": "2021-02-17 10:05:05 +0000",
+      "minecraft:lukewarm_ocean": "2021-02-17 21:36:36 +0000",
       "minecraft:wooded_hills": "2021-02-16 18:47:22 +0000",
       "minecraft:plains": "2021-02-16 18:26:48 +0000"
     },
@@ -1210,6 +1237,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-02-16 18:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-02-17 21:35:11 +0000"
     },
     "done": true
   },
@@ -1815,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-02-17 21:35:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-16 18:50:18 +0000"
@@ -1842,6 +1881,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-02-16 18:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-02-17 21:35:11 +0000"
     },
     "done": true
   },
@@ -2418,6 +2463,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-02-16 19:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-02-17 21:37:44 +0000"
     },
     "done": true
   },
