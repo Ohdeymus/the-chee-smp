@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-16 18:47:01 +0000"
@@ -143,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-02-16 18:41:17 +0000"
@@ -179,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-16 18:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
@@ -242,6 +266,12 @@
   "vanillatweaks:silence_mobs": {
     "criteria": {
       "tick": "2021-02-16 18:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
@@ -497,6 +527,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-17 10:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
@@ -779,6 +815,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-16 18:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
@@ -1100,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-02-17 10:47:05 +0000"
@@ -1193,6 +1241,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-16 18:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
@@ -1412,6 +1466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2021-02-16 18:41:17 +0000"
@@ -1562,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2021-02-17 10:52:06 +0000"
@@ -1646,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-02-17 10:52:05 +0000"
@@ -1673,6 +1745,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2021-02-17 10:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
@@ -1775,6 +1853,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-02-16 19:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2021-02-17 13:12:46 +0000"
     },
     "done": true
   },
