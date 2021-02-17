@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-02-17 14:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-02-17 14:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-16 18:47:01 +0000"
@@ -389,6 +401,7 @@
       "cooked_mutton": "2021-02-16 19:05:20 +0000",
       "cooked_beef": "2021-02-17 13:42:05 +0000",
       "porkchop": "2021-02-17 14:09:07 +0000",
+      "bread": "2021-02-17 14:43:54 +0000",
       "rotten_flesh": "2021-02-17 10:15:03 +0000",
       "cooked_chicken": "2021-02-17 10:05:11 +0000"
     },
@@ -583,6 +596,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-02-16 19:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-02-17 14:41:56 +0000"
     },
     "done": true
   },
@@ -946,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2021-02-17 14:42:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2021-02-17 13:19:45 +0000"
@@ -1012,6 +1037,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2021-02-17 10:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-02-17 14:42:16 +0000"
     },
     "done": true
   },
@@ -1186,6 +1217,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-17 10:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2021-02-17 14:42:16 +0000"
     },
     "done": true
   },
@@ -1504,6 +1541,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-17 11:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-02-17 14:41:56 +0000"
     },
     "done": true
   },
@@ -1984,6 +2027,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2021-02-17 11:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-02-17 14:42:15 +0000"
     },
     "done": true
   },
