@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-02-17 14:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-16 18:37:39 +0000"
@@ -683,6 +689,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-02-16 18:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2021-02-17 14:53:44 +0000"
     },
     "done": true
   },
