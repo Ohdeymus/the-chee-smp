@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2021-02-17 14:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-16 18:37:39 +0000"
@@ -385,6 +391,7 @@
       "cooked_beef": "2021-02-17 11:01:21 +0000",
       "porkchop": "2021-02-16 18:49:04 +0000",
       "rotten_flesh": "2021-02-17 10:24:58 +0000",
+      "suspicious_stew": "2021-02-17 14:11:50 +0000",
       "cooked_chicken": "2021-02-16 19:12:55 +0000",
       "cooked_salmon": "2021-02-17 11:50:22 +0000",
       "carrot": "2021-02-17 13:14:17 +0000"
