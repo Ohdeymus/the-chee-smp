@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2021-02-17 21:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-02-16 18:37:09 +0000"
@@ -584,6 +590,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2021-02-17 10:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2021-02-17 21:40:31 +0000"
     },
     "done": true
   },
@@ -1048,6 +1060,8 @@
       "minecraft:jungle_edge": "2021-02-17 10:53:26 +0000",
       "minecraft:forest": "2021-02-16 18:36:17 +0000",
       "minecraft:mountains": "2021-02-16 18:37:13 +0000",
+      "minecraft:taiga": "2021-02-17 21:41:10 +0000",
+      "minecraft:taiga_hills": "2021-02-17 21:40:41 +0000",
       "minecraft:jungle": "2021-02-17 21:37:07 +0000",
       "minecraft:jungle_hills": "2021-02-17 21:37:17 +0000",
       "minecraft:beach": "2021-02-17 10:08:51 +0000",
@@ -1136,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2021-02-17 21:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-02-17 10:01:31 +0000"
@@ -1173,6 +1193,12 @@
       "minecraft:soul_sand_valley": "2021-02-17 11:56:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-02-17 21:37:56 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1231,6 +1257,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-02-16 18:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-02-17 21:37:56 +0000"
     },
     "done": true
   },
