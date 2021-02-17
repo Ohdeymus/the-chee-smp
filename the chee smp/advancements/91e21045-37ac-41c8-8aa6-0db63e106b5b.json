@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2021-02-17 13:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-02-16 18:41:17 +0000"
@@ -554,6 +560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2021-02-17 13:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-16 18:50:18 +0000"
@@ -893,6 +905,7 @@
       "minecraft:wither_skeleton": "2021-02-17 13:21:04 +0000",
       "minecraft:piglin": "2021-02-17 11:53:14 +0000",
       "minecraft:silverfish": "2021-02-17 11:38:30 +0000",
+      "minecraft:enderman": "2021-02-17 13:30:38 +0000",
       "minecraft:zombie": "2021-02-16 18:48:50 +0000",
       "minecraft:zombie_villager": "2021-02-16 18:49:10 +0000"
     },
@@ -1141,6 +1154,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-02-17 10:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2021-02-17 13:33:11 +0000"
     },
     "done": true
   },
