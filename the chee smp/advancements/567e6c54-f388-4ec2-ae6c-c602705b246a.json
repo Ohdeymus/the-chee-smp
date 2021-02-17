@@ -1442,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2021-02-17 13:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-02-17 10:04:57 +0000"
@@ -1481,6 +1487,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2021-02-17 13:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-02-17 13:58:10 +0000"
     },
     "done": true
   },
@@ -1759,6 +1771,7 @@
       "minecraft:forest": "2021-02-16 18:36:16 +0000",
       "minecraft:mountains": "2021-02-16 18:35:53 +0000",
       "minecraft:taiga": "2021-02-17 13:40:55 +0000",
+      "minecraft:desert": "2021-02-17 13:57:11 +0000",
       "minecraft:warm_ocean": "2021-02-17 13:43:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-02-17 13:40:22 +0000",
       "minecraft:beach": "2021-02-16 19:11:30 +0000",
