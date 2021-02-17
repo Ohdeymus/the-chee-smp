@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2021-02-17 13:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-02-16 18:37:39 +0000"
@@ -523,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2021-02-17 13:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-02-16 19:01:40 +0000"
@@ -562,6 +574,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-02-17 10:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2021-02-17 13:47:43 +0000"
     },
     "done": true
   },
@@ -706,6 +724,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-02-17 11:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2021-02-17 13:46:53 +0000"
     },
     "done": true
   },
@@ -921,7 +945,8 @@
       "minecraft:creeper": "2021-02-17 10:05:19 +0000",
       "minecraft:wither_skeleton": "2021-02-17 13:22:59 +0000",
       "minecraft:piglin": "2021-02-17 11:54:50 +0000",
-      "minecraft:zombie": "2021-02-17 10:04:01 +0000"
+      "minecraft:zombie": "2021-02-17 10:04:01 +0000",
+      "minecraft:drowned": "2021-02-17 13:46:29 +0000"
     },
     "done": false
   },
@@ -1429,6 +1454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2021-02-17 13:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-02-16 19:14:50 +0000"
@@ -1728,6 +1759,7 @@
       "minecraft:forest": "2021-02-16 18:36:16 +0000",
       "minecraft:mountains": "2021-02-16 18:35:53 +0000",
       "minecraft:taiga": "2021-02-17 13:40:55 +0000",
+      "minecraft:warm_ocean": "2021-02-17 13:43:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-02-17 13:40:22 +0000",
       "minecraft:beach": "2021-02-16 19:11:30 +0000",
       "minecraft:river": "2021-02-17 10:22:43 +0000",
