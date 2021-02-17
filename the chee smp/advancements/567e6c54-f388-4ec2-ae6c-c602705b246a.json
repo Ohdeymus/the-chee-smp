@@ -497,12 +497,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2021-02-17 19:53:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-17 11:32:44 +0000"
@@ -550,7 +544,6 @@
       "minecraft:blaze": "2021-02-17 13:19:30 +0000",
       "minecraft:skeleton": "2021-02-16 19:04:23 +0000",
       "minecraft:hoglin": "2021-02-17 11:55:39 +0000",
-      "minecraft:magma_cube": "2021-02-17 19:51:50 +0000",
       "minecraft:creeper": "2021-02-17 10:05:19 +0000",
       "minecraft:wither_skeleton": "2021-02-17 13:22:59 +0000",
       "minecraft:piglin": "2021-02-17 11:54:50 +0000",
@@ -689,12 +682,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-17 11:51:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2021-02-17 19:52:48 +0000"
     },
     "done": true
   },
@@ -1210,12 +1197,6 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-02-16 18:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2021-02-17 19:55:39 +0000"
     },
     "done": true
   },
@@ -2285,12 +2266,6 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2021-02-17 11:51:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2021-02-17 19:53:32 +0000"
     },
     "done": true
   },
