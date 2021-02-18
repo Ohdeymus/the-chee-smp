@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "XXX",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bread"
+        },
+        "X": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:cake"
+    }
+}
